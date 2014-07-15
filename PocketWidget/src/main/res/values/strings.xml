@@ -38,7 +38,5 @@
     <string name="always_show_on_dashclock">Always display in DashClock (even if 0 unread items)</string>
     <string name="dont_always_show_on_dashclock">Doesn\'t display in DashClock when 0 unread items</string>
     <string name="no_unread_items">No Unread Items</string>
-    
-    <string name="pocket_consumer_key_mobile">28286-366dd34b6078a30678c72f78</string>
 
 </resources>
